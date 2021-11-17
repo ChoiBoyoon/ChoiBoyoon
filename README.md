@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChoiBoyoon
 - 👀 I’m interested in **business analytics**, **machine learning**, **python programming**
 - 🌱 I’m currently learning **machine learning!** :D
-- 💞️ I’m looking to collaborate on **business analytics project ** ✨
+- 💞️ I’m looking to collaborate on **business analytics projects** ✨
 - 📫 How to reach me --> choiboyoon11@gmail.com
 
 <!---
