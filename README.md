@@ -2,7 +2,8 @@
 - 👀 I’m interested in **@business analytics**, **@machine learning**, **@python**, **@datas science**, **@blockchain**
 - 🌱 I’m currently learning **machine learning!** :D
 - 💞️ I’m looking to collaborate on **predictive analysis in business** ✨
-- 📫 How to reach me --> email: choiboyoon11@gmail.com,[LinkedIn](https://www.linkedin.com/in/boyoon-choi-769897152/)
+- 📫 How to reach me --> [LinkedIn](https://www.linkedin.com/in/boyoon-choi-769897152/)
+- 📧 My email address is --> choiboyoon11@gmail.com
 
 <!---
 ChoiBoyoon/ChoiBoyoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
