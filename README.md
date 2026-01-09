@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChoiBoyoon [![Linkedin Badge](https://img.shields.io/badge/-BoyoonCHOI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/boyoon-choi-769897152/](https://www.linkedin.com/in/boyoon-c-769897152/))](https://www.linkedin.com/in/boyoon-choi-769897152/)
+- 👋 Hi, I’m @ChoiBoyoon [![Linkedin Badge](https://img.shields.io/badge/-BoyoonCHOI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boyoon-c-769897152/)](https://www.linkedin.com/in/boyoon-c-769897152/)
 - 👀 I’m interested in **@machine learning**, **@LLM**, **@data science**, **@python**, **@business analytics**
 - 🌱 I’m currently working on **building agents**
 - 💞️ I’m looking to collaborate on **predictive analysis in business** ✨
